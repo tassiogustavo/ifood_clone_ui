@@ -1,16 +1,21 @@
-# clone_ifood
+# Ifood Clone - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/211151703-fc3084ab-2c8c-4fac-adf9-b4d1b629f69a.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Esse clone do Ifood foi feito em Dart + Flutter. Foi utilizado a biblioteca flutter_svg para uso de Icones Vetoriais. Para finalizar, todos os dados foram pegos de modelo dentro do própio aplicativo. Foram criados Widgets personalizados para ser fiel a UI original.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Icones Vetoriais com flutter_svg
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* Icones Vetoriais
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📌 Links
+* [flutter_svg](https://pub.dev/packages/flutter_svg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
